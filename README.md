@@ -12,5 +12,6 @@ We can modify the same code as in library_module to obtain the sketches of Vijay
 
 Using canvas, i made my own sketch 😅.
 
+![image](https://github.com/megha-66/Sketchpy/assets/128133837/6abe8e80-fd86-4dd3-bf79-921eb46f2392)
 
 
